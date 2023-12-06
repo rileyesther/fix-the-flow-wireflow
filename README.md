@@ -1,13 +1,4 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-
-## Licentie
-
-This project is licensed under the terms of the [MIT license](./LICENSE).
-
-##User Story: Huizen Delen op Funda
+## User Story: Huizen Delen op Funda
 
 Als een gebruiker van de Funda-website wil ik de mogelijkheid hebben om huizen aan mijn persoonlijke lijst toe te voegen, zodat ik mijn favorieten kan bijhouden en ze gemakkelijk kan delen met vrienden en familie.
 
