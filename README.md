@@ -22,6 +22,8 @@ Deze user story stelt gebruikers in staat om hun huizen op Funda te organiseren,
 
 ## Schetsen
 
+Voordat ik met het schetsen begon, bedacht ik eerst wat ik uiteidelijk als resultaat qua website wilden laten zien. Ik besloot om 2 in 1 te doen en gelijk de opdracht voor de opdracht gever en deze deeltaak samen te voegen. Daar uit heb ik besloten om me te focussen op ''maak nieuwe lijst aan '' functie voor de webiste en de delen met anderen. Met dit kan ik mooi gebruik maken van javascript voor de deeltaak en tegelijkertijd voortgang maken voor de website van de opdracht gever.
+
 ![](https://i.imgur.com/tBvAtOd.jpg)
  
 ![](https://i.imgur.com/7s4sVh7.jpg)
