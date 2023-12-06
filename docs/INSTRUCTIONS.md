@@ -77,4 +77,4 @@ Deze opdracht is *done* als
 - [ ] Er is een Wireflow getekend met alle mogelijke output (states en/of schermen)
 - [ ] Alle states hebben een nummer, titel en beschrijving
 - [ ] De _user flow_ en de interactie zijn goed weergegeven
-- [ ] De opdracht is gedocumenteerd in de Readme van de deeltaak
+- [ ] De opdracht is gedocumenteerd in de Wiki van de deeltaak of de leertaak
