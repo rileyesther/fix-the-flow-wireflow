@@ -20,3 +20,4 @@ Ik stuur de link naar een vriend.
 Mijn vriend opent de link en kan het gedeelde huis bekijken, zelfs zonder een Funda-account.
 Deze user story stelt gebruikers in staat om hun huizen op Funda te organiseren, hun favorieten te delen en gemakkelijk informatie over interessante woningen uit te wisselen met vrienden en familie.
 
+## Schetsen
