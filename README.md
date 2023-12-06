@@ -24,6 +24,6 @@ Deze user story stelt gebruikers in staat om hun huizen op Funda te organiseren,
 
 ![](https://i.imgur.com/tBvAtOd.jpg)
 
-https://i.imgur.com/7s4sVh7.jpg
+![](https://i.imgur.com/7s4sVh7.jpg)
 
-https://i.imgur.com/xUA1xxE.jpg
+![](https://i.imgur.com/xUA1xxE.jpg)
