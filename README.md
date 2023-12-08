@@ -28,4 +28,4 @@ Voordat ik met het schetsen begon, bedacht ik eerst wat ik uiteidelijk als resul
  
 ![](https://i.imgur.com/7s4sVh7.jpg)
 
-![](https://i.imgur.com/xUA1xxE.jpg)
+
